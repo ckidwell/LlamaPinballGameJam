@@ -9,6 +9,14 @@
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/LevelPrototyping/Scenes/ProgrammingTestLevel.umap",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/CameraActor.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Launch.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Ui/WB_Meter.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Interface/InterfaceInteraction.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Blueprints/Llama/LlamaState.uasset",
 				"D:/Repos/LlamaGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
