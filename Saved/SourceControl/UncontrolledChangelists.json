@@ -72,7 +72,24 @@
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Blueprints/Bumper/BP_Bumper.uasset",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/LevelPrototyping/Scenes/ProgrammingTestLevel.umap",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+<<<<<<< HEAD
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/CameraActor.uasset"
+=======
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/CameraActor.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Launch.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Ui/WB_Meter.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Interface/InterfaceInteraction.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Blueprints/Llama/LlamaState.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Characters/Default.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Characters/llama_PhysicsAsset.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Characters/llama_Skeleton.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Characters/llama.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"D:/Repos/LlamaGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+>>>>>>> 94d1025e7a09a82e3beb565104dd1b2318818414
 			]
 		}
 	]
