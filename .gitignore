@@ -46,6 +46,8 @@ ProjectName.sln.DotSettings.user
 *.sdf
 *.VC.db
 *.VC.opendb
+Saved/**
+
 
 # Precompiled Assets
 ProjectName/SourceArt/**/*.png
