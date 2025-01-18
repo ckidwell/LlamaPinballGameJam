@@ -5,11 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Repos/LlamaGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Repos/LlamaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FD/5E6OY4WHB815940CJEH9BF.uasset",
+				"D:/Repos/LlamaGame/Content/Characters/Default.uasset",
+				"D:/Repos/LlamaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0C/G4M56E4EYNZIANALD4A2DA.uasset",
+				"D:/Repos/LlamaGame/Content/Characters/llama.uasset",
+				"D:/Repos/LlamaGame/Content/Characters/llama_PhysicsAsset.uasset",
+				"D:/Repos/LlamaGame/Content/Characters/llama_Skeleton.uasset",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Blueprints/Bumper/BP_Bumper.uasset",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/LevelPrototyping/Scenes/ProgrammingTestLevel.umap",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/CameraActor.uasset",
-				"D:/Repos/LlamaGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/CameraActor.uasset"
 			]
 		}
 	]
