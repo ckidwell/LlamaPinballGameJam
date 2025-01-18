@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/Unreal/Llama/LlamaPinballGameJam/Content/Blueprints/Bumper/BP_Bumper.uasset",
 				"D:/Repos/LlamaGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
