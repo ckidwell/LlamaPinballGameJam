@@ -6494,3 +6494,762 @@ Sampler Limit: 32
 [2025.01.19-19.10.00:927][967]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.19-19.10.00:928][967]AssetCheck: /Game/LevelPrototyping/PinballMap1 Validating asset
 [2025.01.19-19.10.00:972][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.10.29:771][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.19-19.10.29:773][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelPrototyping/PinballMap1' took 0.025
+[2025.01.19-19.10.29:773][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2025.01.19-19.10.29:773][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2025.01.19-19.10.29:777][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto1
+[2025.01.19-19.10.29:777][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Concrete_Tiles_Auto18D759DD048FDA1FAA7D664B394A42185.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto1.uasset'
+[2025.01.19-19.10.29:777][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/Boundaries] ([1] browsable assets)...
+[2025.01.19-19.10.29:777][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/Boundaries]
+[2025.01.19-19.10.29:777][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Boundaries/Boundaries" FILE="D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/Boundaries_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.01.19-19.10.29:779][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/Boundaries_Auto1
+[2025.01.19-19.10.29:779][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/Boundaries_Auto1921DA08C4613034F0A77B5A7F1056B87.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/Boundaries_Auto1.uasset'
+[2025.01.19-19.10.29:779][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/square_boundary] ([1] browsable assets)...
+[2025.01.19-19.10.29:779][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/square_boundary]
+[2025.01.19-19.10.29:781][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/square_boundary_Auto1
+[2025.01.19-19.10.29:781][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/square_boundary_Auto18C5475BF4B257B703D5F3AA39FBD7B39.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/square_boundary_Auto1.uasset'
+[2025.01.19-19.10.29:781][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/round_boundary] ([1] browsable assets)...
+[2025.01.19-19.10.29:781][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/round_boundary]
+[2025.01.19-19.10.29:784][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/round_boundary_Auto1
+[2025.01.19-19.10.29:784][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/round_boundary_Auto1B3A9B52F477C7A85A557C4B3EF3C3E6C.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/round_boundary_Auto1.uasset'
+[2025.01.19-19.10.29:784][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/rect_boundary_long] ([1] browsable assets)...
+[2025.01.19-19.10.29:785][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/rect_boundary_long]
+[2025.01.19-19.10.29:787][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_long_Auto1
+[2025.01.19-19.10.29:787][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/rect_boundary_long_Auto1A300ECCE4168AF7876800CBCDE64BC1E.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_long_Auto1.uasset'
+[2025.01.19-19.10.29:787][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/rect_boundary_short] ([1] browsable assets)...
+[2025.01.19-19.10.29:787][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/rect_boundary_short]
+[2025.01.19-19.10.29:789][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_short_Auto1
+[2025.01.19-19.10.29:789][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/rect_boundary_short_Auto1D12D7F314CF1054AEFE331AA597C3708.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_short_Auto1.uasset'
+[2025.01.19-19.10.29:790][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Chrome] ([1] browsable assets)...
+[2025.01.19-19.10.29:790][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Chrome]
+[2025.01.19-19.10.29:793][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto1
+[2025.01.19-19.10.29:793][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Metal_Chrome_Auto18664EDD740B5283D5C94A6A9F6C506A5.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto1.uasset'
+[2025.01.19-19.10.29:794][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Burnished_Steel] ([1] browsable assets)...
+[2025.01.19-19.10.29:794][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Burnished_Steel]
+[2025.01.19-19.10.29:796][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Burnished_Steel_Auto1
+[2025.01.19-19.10.29:796][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Metal_Burnished_Steel_Auto146982DE74F231CA0C83D06BD7F6AA235.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Burnished_Steel_Auto1.uasset'
+[2025.01.19-19.10.29:796][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Walnut] ([1] browsable assets)...
+[2025.01.19-19.10.29:796][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Walnut]
+[2025.01.19-19.10.29:796][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Walnut" FILE="D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.01.19-19.10.29:799][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto1
+[2025.01.19-19.10.29:799][580]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Wood_Walnut_Auto1C6D8CD204656C17AF74D38A1DC9D29F0.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto1.uasset'
+[2025.01.19-19.10.29:800][580]LogFileHelpers: Auto-saving content packages took 0.027
+[2025.01.19-19.12.14:677][570]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11108.930664
+[2025.01.19-19.12.15:678][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-19.12.15:678][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11109.598633, Update Interval: 300.648224
+[2025.01.19-19.17.15:199][199]Cmd: DELETE
+[2025.01.19-19.17.15:199][199]Cmd: ACTOR DELETE
+[2025.01.19-19.17.15:203][199]LogEditorActor: Deleted Actor: SkyLight
+[2025.01.19-19.17.15:229][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.01.19-19.17.15:232][199]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.01.19-19.17.16:830][373]Cmd: DELETE
+[2025.01.19-19.17.16:830][373]Cmd: ACTOR DELETE
+[2025.01.19-19.17.16:833][373]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2025.01.19-19.17.16:856][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.17.16:859][373]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.01.19-19.17.21:697][939]Cmd: DELETE
+[2025.01.19-19.17.21:698][939]Cmd: ACTOR DELETE
+[2025.01.19-19.17.21:700][939]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2025.01.19-19.17.21:723][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.17.21:725][939]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.01.19-19.17.25:608][365]Cmd: DELETE
+[2025.01.19-19.17.25:608][365]Cmd: ACTOR DELETE
+[2025.01.19-19.17.25:610][365]LogEditorActor: Deleted Actor: VolumetricCloud
+[2025.01.19-19.17.25:634][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.17.25:636][365]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.01.19-19.17.28:462][695]Cmd: DELETE
+[2025.01.19-19.17.28:462][695]Cmd: ACTOR DELETE
+[2025.01.19-19.17.28:464][695]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.01.19-19.17.28:484][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.17.28:486][695]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.01.19-19.18.12:966][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11467.375977
+[2025.01.19-19.18.13:966][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-19.18.13:966][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11468.041992, Update Interval: 316.573395
+[2025.01.19-19.18.24:581][732]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat.RedBumperMat
+[2025.01.19-19.18.24:586][732]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.19-19.18.24:779][732]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.01.19-19.18.25:061][732]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.19-19.18.25:061][732]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.18.25:061][732]MaterialEditorStats: Shader Count: 0
+[2025.01.19-19.18.25:061][732]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.18.25:157][734]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.18.25:157][734]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.18.25:157][734]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.18.25:157][734]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.18.25:157][734]MaterialEditorStats: Shader Count: 5
+[2025.01.19-19.18.25:157][734]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.18.37:178][904]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.18.41:244][330]LogMaterialEditor: Applying material RedBumperMat
+[2025.01.19-19.18.41:393][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.19-19.18.43:483][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Nanite Compute Shader: 793 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Shader Count: 15
+[2025.01.19-19.18.43:494][330]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.18.48:363][762]LogSlate: Window 'RedBumperMat' being destroyed
+[2025.01.19-19.18.48:367][762]LogSlate: Window 'RedBumperMat' being destroyed
+[2025.01.19-19.18.52:944][276]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat.BlueBumperMat
+[2025.01.19-19.18.52:947][276]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.01.19-19.18.53:150][276]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.01.19-19.18.53:435][276]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.19-19.18.53:435][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.18.53:435][276]MaterialEditorStats: Shader Count: 0
+[2025.01.19-19.18.53:435][276]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.18.53:519][278]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.18.53:519][278]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.18.53:519][278]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.18.53:519][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.18.53:519][278]MaterialEditorStats: Shader Count: 5
+[2025.01.19-19.18.53:519][278]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.18.59:562][531]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.19.01:114][684]LogMaterialEditor: Applying material BlueBumperMat
+[2025.01.19-19.19.01:255][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.19-19.19.02:926][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Nanite Compute Shader: 793 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Shader Count: 15
+[2025.01.19-19.19.02:972][684]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: ================================================
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Total job queries 1,900, among them cache hits 1,325 (69.74%), DDC hits 189 (9.95%), Duplicates 7 (0.37%)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Tracking 568 distinct input hashes that result in 420 distinct outputs (73.94%)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: RAM used: 286.55 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Shaders Compiled: 379
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Jobs assigned 379, completed 379 (100%)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Average time worker was idle: 272.26 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 3.21 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 5.33 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Job life time (pending + execution): average 1.36 s, max 5.63
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Shader code size: average 10.198 KiB, min 3.395 KiB, max 32.676 KiB
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.23 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Jobs were issued in 379 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Average processing rate: 4.40 jobs/sec
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Total thread time: 336.488 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Total thread preprocess time: 24.422 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Percentage time preprocessing: 7.26%
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Effective parallelization: 3.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   15 times, average 1.88 sec, max 2.85 sec, min 1.32 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   15 times, average 1.84 sec, max 2.89 sec, min 1.33 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   21 times, average 1.78 sec, max 4.31 sec, min 0.91 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   15 times, average 1.57 sec, max 2.62 sec, min 1.10 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.53% of total time (compiled   45 times, average 1.16 sec, max 2.54 sec, min 0.76 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.52% of total time (compiled   33 times, average 1.48 sec, max 4.26 sec, min 0.76 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.08% of total time (compiled   21 times, average 1.78 sec, max 4.31 sec, min 0.91 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 8.38% of total time (compiled   15 times, average 1.88 sec, max 2.85 sec, min 1.32 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 8.22% of total time (compiled   15 times, average 1.84 sec, max 2.89 sec, min 1.33 sec)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: === Material stats ===
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Materials Translated:    447
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Material Translation Only: 0.10 s (51%)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: Material Cache Hits: 50 (11%)
+[2025.01.19-19.19.18:609][832]LogShaderCompilers: Display: ================================================
+[2025.01.19-19.19.21:321][928]LogSlate: Window 'BlueBumperMat' being destroyed
+[2025.01.19-19.19.21:325][928]LogSlate: Window 'BlueBumperMat' being destroyed
+[2025.01.19-19.19.26:158][378]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.19.26:158][378]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20796
+[2025.01.19-19.19.26:217][385]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.19.26:219][385]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{50e617c4-9ab2-4e3c-8ec3-2d058e81bce7}, Name=Mindframe Headset (OMEN Mindframe Prime)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - Other, InstanceID=1, DurationMS=56.06
+[2025.01.19-19.19.26:219][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.01.19-19.19.26:221][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.19-19.19.59:887][195]Cmd: DELETE
+[2025.01.19-19.19.59:887][195]Cmd: ACTOR DELETE
+[2025.01.19-19.19.59:890][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.19-19.19.59:913][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.19-19.19.59:917][195]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.01.19-19.20.58:511][916]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.01.19-19.20.58:511][916]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.01.19-19.21.15:807][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.19-19.21.33:578][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.19-19.23.01:294][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.19-19.23.01:299][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelPrototyping/PinballMap1/C/DL/WV8MXUGQB4M8H6R1HS103M_Auto2
+[2025.01.19-19.23.01:299][545]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/WV8MXUGQB4M8H6R1HS103M_Auto2173B968344A356923CA8D89509C8DBD8.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/__ExternalActors__/LevelPrototyping/PinballMap1/C/DL/WV8MXUGQB4M8H6R1HS103M_Auto2.uasset'
+[2025.01.19-19.23.01:300][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelPrototyping/PinballMap1' took 0.029
+[2025.01.19-19.23.01:300][545]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.01.19-19.23.01:300][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat] ([1] browsable assets)...
+[2025.01.19-19.23.01:459][545]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat.BlueBumperMat]
+[2025.01.19-19.23.01:459][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat]
+[2025.01.19-19.23.01:461][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat_Auto2
+[2025.01.19-19.23.01:462][545]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/BlueBumperMat_Auto274C0CB104FF73FA949CEF3B36C697401.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat_Auto2.uasset'
+[2025.01.19-19.23.01:462][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat] ([1] browsable assets)...
+[2025.01.19-19.23.01:479][545]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat.RedBumperMat]
+[2025.01.19-19.23.01:479][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat]
+[2025.01.19-19.23.01:482][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat_Auto2
+[2025.01.19-19.23.01:482][545]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/RedBumperMat_Auto26FFD2EA94D77A29E19B591BFDA9AA857.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat_Auto2.uasset'
+[2025.01.19-19.23.01:483][545]LogFileHelpers: Auto-saving content packages took 0.182
+[2025.01.19-19.23.41:735][327]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.01.19-19.23.41:735][327]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.01.19-19.23.59:621][378]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.19-19.24.29:410][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11843.951172
+[2025.01.19-19.24.29:501][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-19.24.29:501][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11844.034180, Update Interval: 350.388489
+[2025.01.19-19.25.12:715][907]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.01.19-19.25.22:671][985]Cmd: DUPLICATE
+[2025.01.19-19.25.22:671][985]Cmd: ACTOR DUPLICATE
+[2025.01.19-19.25.26:064][380]Cmd: DUPLICATE
+[2025.01.19-19.25.26:064][380]Cmd: ACTOR DUPLICATE
+[2025.01.19-19.25.28:423][651]Cmd: DUPLICATE
+[2025.01.19-19.25.28:423][651]Cmd: ACTOR DUPLICATE
+[2025.01.19-19.25.31:202][972]Cmd: DUPLICATE
+[2025.01.19-19.25.31:202][972]Cmd: ACTOR DUPLICATE
+[2025.01.19-19.25.35:513][462]Cmd: DUPLICATE
+[2025.01.19-19.25.35:513][462]Cmd: ACTOR DUPLICATE
+[2025.01.19-19.25.49:938][129]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.25.51:207][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.25.51:284][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.19-19.25.51:307][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.25.51:329][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.25.51:331][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/C/DL/WV8MXUGQB4M8H6R1HS103M
+[2025.01.19-19.25.51:331][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/WV8MXUGQB4M8H6R1HS103M9685E63440809956C530199B8A130490.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/C/DL/WV8MXUGQB4M8H6R1HS103M.uasset'
+[2025.01.19-19.25.51:333][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/D/2D/EIHYSAA6I5QGFU483XPFXB
+[2025.01.19-19.25.51:333][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/EIHYSAA6I5QGFU483XPFXB5B215D5945E94DC1CBB8DCA414C881CC.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/D/2D/EIHYSAA6I5QGFU483XPFXB.uasset'
+[2025.01.19-19.25.51:334][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/2/JK/LUCQM0EBG7TQK7NSBW4FRU
+[2025.01.19-19.25.51:334][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/LUCQM0EBG7TQK7NSBW4FRU3E07AC99460744CEDD1C6C80DF912FD8.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/2/JK/LUCQM0EBG7TQK7NSBW4FRU.uasset'
+[2025.01.19-19.25.51:336][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/7/8K/925UU21LD1CJ3HZPG2LOAX
+[2025.01.19-19.25.51:336][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/925UU21LD1CJ3HZPG2LOAXD75B85A340324B3BD241DCA4C514F927.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/7/8K/925UU21LD1CJ3HZPG2LOAX.uasset'
+[2025.01.19-19.25.51:339][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/B/2A/YBEVA7MTC68SX0HWNKN93A
+[2025.01.19-19.25.51:339][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/YBEVA7MTC68SX0HWNKN93A73E489D1480100671A14F8B14BFEE08B.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/B/2A/YBEVA7MTC68SX0HWNKN93A.uasset'
+[2025.01.19-19.25.51:340][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/5/AE/2SLNWJOCP4O48U80D7TL4N
+[2025.01.19-19.25.51:340][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/2SLNWJOCP4O48U80D7TL4N8260E7A7455D875A8AF3DA97FAC1FC12.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/5/AE/2SLNWJOCP4O48U80D7TL4N.uasset'
+[2025.01.19-19.25.51:342][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/8/Z5/YSRLJ6CTZ8EMOXUOTQ6OJS
+[2025.01.19-19.25.51:342][277]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/YSRLJ6CTZ8EMOXUOTQ6OJSE14603DE4A3D419266A7BF839737C6D3.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/8/Z5/YSRLJ6CTZ8EMOXUOTQ6OJS.uasset'
+[2025.01.19-19.25.51:357][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.865 ms (total: 3.71 sec)
+[2025.01.19-19.25.51:412][277]LogContentValidation: Display: Starting to validate 7 assets
+[2025.01.19-19.25.51:412][277]LogContentValidation: Enabled validators:
+[2025.01.19-19.25.51:412][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.19-19.25.51:412][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.19-19.25.51:412][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.19-19.25.51:412][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.19-19.25.51:412][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.19-19.25.51:412][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.19-19.25.51:412][277]AssetCheck: /Game/LevelPrototyping/PinballMap1 Validating asset
+[2025.01.19-19.26.31:129][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.26.31:186][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.26.31:209][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.26.31:228][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.26.31:229][761]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/7/41/MY9RGDRYV6A1KODX7WDGOJ
+[2025.01.19-19.26.31:229][761]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/MY9RGDRYV6A1KODX7WDGOJB70BB2764644833628260B9727A8AA33.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/7/41/MY9RGDRYV6A1KODX7WDGOJ.uasset'
+[2025.01.19-19.26.31:231][761]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/A/R3/Z9PL88RDBPDPEYYRMZB64Z
+[2025.01.19-19.26.31:231][761]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/Z9PL88RDBPDPEYYRMZB64Z6FE34EB1483D0C29858E2CBDE6420727.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/A/R3/Z9PL88RDBPDPEYYRMZB64Z.uasset'
+[2025.01.19-19.26.31:233][761]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/9/K5/ZQBQQWQWB5JS33ESM8O8MZ
+[2025.01.19-19.26.31:233][761]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/ZQBQQWQWB5JS33ESM8O8MZAD8458EF4686B793838D91933EF8CAE3.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/9/K5/ZQBQQWQWB5JS33ESM8O8MZ.uasset'
+[2025.01.19-19.26.31:234][761]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/2/M1/1R7UMNL7AZK3MRKK3FLG70
+[2025.01.19-19.26.31:234][761]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/1R7UMNL7AZK3MRKK3FLG70EDE6BD26411CD02B0D47A3B3CA51245C.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/2/M1/1R7UMNL7AZK3MRKK3FLG70.uasset'
+[2025.01.19-19.26.31:235][761]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/3/SI/O7LA70M3J4ERNQ1MGO01ZZ
+[2025.01.19-19.26.31:235][761]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/O7LA70M3J4ERNQ1MGO01ZZ7A1A822E4377ED070254EA96A67D6031.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/3/SI/O7LA70M3J4ERNQ1MGO01ZZ.uasset'
+[2025.01.19-19.26.31:250][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.804 ms (total: 3.83 sec)
+[2025.01.19-19.26.31:297][761]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.19-19.26.31:297][761]LogContentValidation: Enabled validators:
+[2025.01.19-19.26.31:297][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.19-19.26.31:297][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.19-19.26.31:297][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.19-19.26.31:297][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.19-19.26.31:297][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.19-19.26.31:297][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.19-19.26.31:297][761]AssetCheck: /Game/LevelPrototyping/PinballMap1 Validating asset
+[2025.01.19-19.27.24:773][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.27.24:841][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.19-19.27.24:864][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.27.24:887][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.27.24:889][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/B/FB/TIUBF148M30D3XV2YSH54R
+[2025.01.19-19.27.24:890][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/TIUBF148M30D3XV2YSH54RCEED6EEE4A60BF9CA33FDC8167FC9C82.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/B/FB/TIUBF148M30D3XV2YSH54R.uasset'
+[2025.01.19-19.27.24:891][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/B/JD/GIW71TQV8T8ZZFOP9FJVV6
+[2025.01.19-19.27.24:891][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/GIW71TQV8T8ZZFOP9FJVV691B6159947943165A2108F8D78A840A5.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/B/JD/GIW71TQV8T8ZZFOP9FJVV6.uasset'
+[2025.01.19-19.27.24:892][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/0/X7/SV1IFIBI6EO17Q45G8Z9MU
+[2025.01.19-19.27.24:892][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/SV1IFIBI6EO17Q45G8Z9MU6E2524C540BA2E224DB55A8358540586.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/0/X7/SV1IFIBI6EO17Q45G8Z9MU.uasset'
+[2025.01.19-19.27.24:893][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/E/HI/VXC3M463V5GP63D2WSNALJ
+[2025.01.19-19.27.24:893][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/VXC3M463V5GP63D2WSNALJ53D348BE41DCED46E54F33A99F52048D.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/E/HI/VXC3M463V5GP63D2WSNALJ.uasset'
+[2025.01.19-19.27.24:895][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/A/8L/8CRNPXCK6TRE2HWBCTSY3W
+[2025.01.19-19.27.24:895][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/8CRNPXCK6TRE2HWBCTSY3W22E86BC147BDEB27EA5050A30CD829D0.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/A/8L/8CRNPXCK6TRE2HWBCTSY3W.uasset'
+[2025.01.19-19.27.24:896][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/0/29/UOCL7GJBFMAX9NU0I8X4B8
+[2025.01.19-19.27.24:896][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/UOCL7GJBFMAX9NU0I8X4B8A004F3304945D8623C100CA258137EB2.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/0/29/UOCL7GJBFMAX9NU0I8X4B8.uasset'
+[2025.01.19-19.27.24:897][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/C/A1/EJLCOIM5D015QWB22PI5IA
+[2025.01.19-19.27.24:897][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/EJLCOIM5D015QWB22PI5IA5566BD3747AA70F8060799B720302E94.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/C/A1/EJLCOIM5D015QWB22PI5IA.uasset'
+[2025.01.19-19.27.24:899][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/C/JB/CMYIWHZ9MEWBGPRTMR0JTF
+[2025.01.19-19.27.24:899][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/CMYIWHZ9MEWBGPRTMR0JTFACA0EAD84F798B2F328761B8855A06EF.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/C/JB/CMYIWHZ9MEWBGPRTMR0JTF.uasset'
+[2025.01.19-19.27.24:900][801]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/B/KX/16GPFM63F6WZFMOPRHJUD0
+[2025.01.19-19.27.24:900][801]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/16GPFM63F6WZFMOPRHJUD082ED1A5D400FDB4633C3F0AAF973A55A.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/B/KX/16GPFM63F6WZFMOPRHJUD0.uasset'
+[2025.01.19-19.27.24:906][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.895 ms (total: 3.96 sec)
+[2025.01.19-19.27.24:965][801]LogContentValidation: Display: Starting to validate 9 assets
+[2025.01.19-19.27.24:965][801]LogContentValidation: Enabled validators:
+[2025.01.19-19.27.24:965][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.19-19.27.24:965][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.19-19.27.24:965][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.19-19.27.24:965][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.19-19.27.24:965][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.19-19.27.24:965][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.19-19.27.24:966][801]AssetCheck: /Game/LevelPrototyping/PinballMap1 Validating asset
+[2025.01.19-19.28.07:910][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.28.07:990][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.28.08:014][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.28.08:036][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.28.08:038][773]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/D/2D/EIHYSAA6I5QGFU483XPFXB
+[2025.01.19-19.28.08:038][773]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/EIHYSAA6I5QGFU483XPFXB9ED8D83D47E06B5C51EE09AB308CE53F.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/D/2D/EIHYSAA6I5QGFU483XPFXB.uasset'
+[2025.01.19-19.28.08:045][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.087 ms (total: 4.10 sec)
+[2025.01.19-19.28.08:081][773]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.19-19.28.08:081][773]LogContentValidation: Enabled validators:
+[2025.01.19-19.28.08:081][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.19-19.28.08:081][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.19-19.28.08:081][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.19-19.28.08:081][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.19-19.28.08:081][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.19-19.28.08:081][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.19-19.28.08:082][773]AssetCheck: /Game/LevelPrototyping/PinballMap1 Validating asset
+[2025.01.19-19.28.21:203][ 92]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Boundaries/Boundaries.Boundaries
+[2025.01.19-19.28.21:206][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.01.19-19.28.21:400][ 92]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.01.19-19.28.21:695][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.19-19.28.21:695][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.28.21:695][ 92]MaterialEditorStats: Shader Count: 0
+[2025.01.19-19.28.21:695][ 92]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.28.21:796][ 94]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.28.21:796][ 94]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.28.21:796][ 94]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.28.21:796][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.28.21:796][ 94]MaterialEditorStats: Shader Count: 5
+[2025.01.19-19.28.21:796][ 94]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.28.29:359][247]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.28.32:810][543]LogMaterialEditor: Applying material Boundaries
+[2025.01.19-19.28.32:954][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.19-19.28.34:920][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Nanite Compute Shader: 794 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Shader Count: 15
+[2025.01.19-19.28.34:931][543]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.28.39:589][881]LogSlate: Window 'Boundaries' being destroyed
+[2025.01.19-19.28.39:594][881]LogSlate: Window 'Boundaries' being destroyed
+[2025.01.19-19.28.57:528][709]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Meshes/Bumpers/Default.Default
+[2025.01.19-19.28.57:531][709]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.01.19-19.28.57:719][709]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.01.19-19.28.58:011][709]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.19-19.28.58:011][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.28.58:011][709]MaterialEditorStats: Shader Count: 0
+[2025.01.19-19.28.58:011][709]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.28.58:094][711]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.28.58:094][711]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.28.58:094][711]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.28.58:094][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.28.58:094][711]MaterialEditorStats: Shader Count: 5
+[2025.01.19-19.28.58:094][711]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.05:729][821]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.29.07:269][914]LogMaterialEditor: Applying material Default
+[2025.01.19-19.29.07:414][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.19-19.29.09:407][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Nanite Compute Shader: 794 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Shader Count: 15
+[2025.01.19-19.29.09:430][915]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.17:841][607]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.19-19.29.17:841][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.17:841][607]MaterialEditorStats: Shader Count: 0
+[2025.01.19-19.29.17:841][607]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.17:908][609]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.17:908][609]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.29.17:908][609]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.29.17:908][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.17:908][609]MaterialEditorStats: Shader Count: 5
+[2025.01.19-19.29.17:908][609]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.18:755][671]LogMaterialEditor: Saving and Compiling material Default
+[2025.01.19-19.29.18:879][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.01.19-19.29.19:060][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.29.19:070][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.29.19:120][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/Bumpers/Default] ([1] browsable assets)...
+[2025.01.19-19.29.19:128][671]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Meshes/Bumpers/Default.Default]
+[2025.01.19-19.29.19:128][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/Bumpers/Default]
+[2025.01.19-19.29.19:128][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/Bumpers/Default" FILE="D:/Repos/LlamaGame/Content/LevelPrototyping/Meshes/Bumpers/Default.uasset" SILENT=true
+[2025.01.19-19.29.19:130][671]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/Bumpers/Default
+[2025.01.19-19.29.19:130][671]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/Default8D4167374ACB268C9AB3B1ACCCB7F252.tmp' to 'D:/Repos/LlamaGame/Content/LevelPrototyping/Meshes/Bumpers/Default.uasset'
+[2025.01.19-19.29.19:136][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.988 ms (total: 4.17 sec)
+[2025.01.19-19.29.19:186][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.19-19.29.19:186][671]LogContentValidation: Enabled validators:
+[2025.01.19-19.29.19:186][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.19-19.29.19:186][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.19-19.29.19:186][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.19-19.29.19:186][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.19-19.29.19:186][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.19-19.29.19:186][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.19-19.29.19:186][671]AssetCheck: /Game/LevelPrototyping/Meshes/Bumpers/Default Validating asset
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Nanite Compute Shader: 792 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Shader Count: 15
+[2025.01.19-19.29.19:193][671]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.24:417][ 67]LogSlate: Window 'Default' being destroyed
+[2025.01.19-19.29.24:422][ 67]LogSlate: Window 'Default' being destroyed
+[2025.01.19-19.29.38:992][437]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Meshes/Bumpers/Boundaries.Boundaries
+[2025.01.19-19.29.38:995][437]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.01.19-19.29.39:186][437]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.01.19-19.29.39:486][437]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.19-19.29.39:486][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.39:486][437]MaterialEditorStats: Shader Count: 0
+[2025.01.19-19.29.39:486][437]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.39:570][439]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.39:570][439]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.29.39:570][439]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.29.39:570][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.39:570][439]MaterialEditorStats: Shader Count: 5
+[2025.01.19-19.29.39:570][439]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.29.48:341][559]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.29.51:011][747]LogMaterialEditor: Applying material Boundaries
+[2025.01.19-19.29.51:155][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.19-19.29.53:144][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Nanite Compute Shader: 794 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Shader Count: 15
+[2025.01.19-19.29.53:181][748]MaterialEditorStats: Preshaders: 6  (8 param fetches, 26 ops)
+[2025.01.19-19.30.04:920][626]Cmd: TRANSACTION UNDO
+[2025.01.19-19.30.04:920][626]LogEditorTransaction: Undo Place Objects
+[2025.01.19-19.30.05:612][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.30.05:678][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.30.05:704][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.30.05:730][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.30.05:745][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.434 ms (total: 4.30 sec)
+[2025.01.19-19.30.19:105][761]Cmd: DUPLICATE
+[2025.01.19-19.30.19:105][761]Cmd: ACTOR DUPLICATE
+[2025.01.19-19.30.30:014][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.30.30:098][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.19-19.30.30:117][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.30.30:139][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.30.30:140][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelPrototyping/PinballMap1/B/VM/MXWL1W1XLZQX04A3BS7JPX
+[2025.01.19-19.30.30:142][614]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/MXWL1W1XLZQX04A3BS7JPX13BF7F5749CA74599B5BC0A07C823982.tmp' to 'D:/Repos/LlamaGame/Content/__ExternalActors__/LevelPrototyping/PinballMap1/B/VM/MXWL1W1XLZQX04A3BS7JPX.uasset'
+[2025.01.19-19.30.30:156][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.936 ms (total: 4.44 sec)
+[2025.01.19-19.30.30:205][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.19-19.30.30:205][614]LogContentValidation: Enabled validators:
+[2025.01.19-19.30.30:205][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.19-19.30.30:205][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.19-19.30.30:205][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.19-19.30.30:205][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.19-19.30.30:205][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.19-19.30.30:205][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.19-19.30.30:206][614]AssetCheck: /Game/LevelPrototyping/PinballMap1 Validating asset
+[2025.01.19-19.30.38:261][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.30.38:329][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.30.38:352][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.30.38:372][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.30.38:389][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.994 ms (total: 4.57 sec)
+[2025.01.19-19.30.41:452][585]LogSlate: Window 'Boundaries' being destroyed
+[2025.01.19-19.30.41:457][585]LogSlate: Window 'Boundaries' being destroyed
+[2025.01.19-19.31.12:432][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12247.380859
+[2025.01.19-19.31.13:432][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-19.31.13:432][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12248.047852, Update Interval: 302.153381
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: ================================================
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Total job queries 2,046, among them cache hits 1,426 (69.70%), DDC hits 189 (9.24%), Duplicates 7 (0.34%)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Tracking 613 distinct input hashes that result in 453 distinct outputs (73.90%)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: RAM used: 299.06 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Shaders Compiled: 424
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Jobs assigned 424, completed 424 (100%)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Average time worker was idle: 258.25 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 3.21 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 5.33 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 5.63
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Shader code size: average 10.285 KiB, min 3.395 KiB, max 32.676 KiB
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 95.49 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Jobs were issued in 424 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Average processing rate: 4.44 jobs/sec
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Total thread time: 369.972 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Total thread preprocess time: 26.189 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Percentage time preprocessing: 7.08%
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Effective parallelization: 3.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   18 times, average 1.81 sec, max 2.85 sec, min 1.32 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   18 times, average 1.76 sec, max 2.89 sec, min 1.33 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   24 times, average 1.68 sec, max 4.31 sec, min 0.91 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.56 sec, max 1.56 sec, min 1.56 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.61% of total time (compiled   51 times, average 1.13 sec, max 2.54 sec, min 0.76 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.73% of total time (compiled   39 times, average 1.40 sec, max 4.26 sec, min 0.76 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.93% of total time (compiled   24 times, average 1.68 sec, max 4.31 sec, min 0.91 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 8.79% of total time (compiled   18 times, average 1.81 sec, max 2.85 sec, min 1.32 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 8.58% of total time (compiled   18 times, average 1.76 sec, max 2.89 sec, min 1.33 sec)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: === Material stats ===
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Materials Translated:    478
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Material Translation Only: 0.10 s (52%)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: Material Cache Hits: 50 (10%)
+[2025.01.19-19.31.18:765][425]LogShaderCompilers: Display: ================================================
+[2025.01.19-19.33.01:866][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.19-19.33.01:870][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelPrototyping/PinballMap1' took 0.027
+[2025.01.19-19.33.01:870][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2025.01.19-19.33.01:870][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2025.01.19-19.33.01:874][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto3
+[2025.01.19-19.33.01:874][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Concrete_Tiles_Auto38FDCCA9041E50D90AF3B48A6557B37CF.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto3.uasset'
+[2025.01.19-19.33.01:874][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat] ([1] browsable assets)...
+[2025.01.19-19.33.01:874][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat]
+[2025.01.19-19.33.01:876][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat_Auto3
+[2025.01.19-19.33.01:876][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/BlueBumperMat_Auto3D2A2DC474898C520E8971DAF5F36A5A8.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/BlueBumperMat_Auto3.uasset'
+[2025.01.19-19.33.01:876][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat] ([1] browsable assets)...
+[2025.01.19-19.33.01:876][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat]
+[2025.01.19-19.33.01:878][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat_Auto3
+[2025.01.19-19.33.01:878][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/RedBumperMat_Auto3BAF580D145EC42C7284F55868D8B6EEC.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/RedBumperMat_Auto3.uasset'
+[2025.01.19-19.33.01:878][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/Bumpers/Boundaries] ([1] browsable assets)...
+[2025.01.19-19.33.01:965][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Meshes/Bumpers/Boundaries.Boundaries]
+[2025.01.19-19.33.01:965][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/Bumpers/Boundaries]
+[2025.01.19-19.33.01:967][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/Boundaries_Auto3
+[2025.01.19-19.33.01:967][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/Boundaries_Auto3EFB523254CE9CDC5DFAAE39C35926DA1.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Meshes/Bumpers/Boundaries_Auto3.uasset'
+[2025.01.19-19.33.01:967][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Boundaries/Boundaries] ([1] browsable assets)...
+[2025.01.19-19.33.01:983][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Boundaries/Boundaries.Boundaries]
+[2025.01.19-19.33.01:983][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/Boundaries]
+[2025.01.19-19.33.01:983][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Boundaries/Boundaries" FILE="D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/Boundaries_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.01.19-19.33.01:985][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/Boundaries_Auto3
+[2025.01.19-19.33.01:985][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/Boundaries_Auto34E497EC94C09BBFEACFB52910415033F.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/Boundaries_Auto3.uasset'
+[2025.01.19-19.33.01:986][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/square_boundary] ([1] browsable assets)...
+[2025.01.19-19.33.01:986][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/square_boundary]
+[2025.01.19-19.33.01:988][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/square_boundary_Auto3
+[2025.01.19-19.33.01:988][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/square_boundary_Auto3BD6743DD42C5E9766442559E281D8204.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/square_boundary_Auto3.uasset'
+[2025.01.19-19.33.01:989][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/round_boundary] ([1] browsable assets)...
+[2025.01.19-19.33.01:989][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/round_boundary]
+[2025.01.19-19.33.01:991][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/round_boundary_Auto3
+[2025.01.19-19.33.01:991][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/round_boundary_Auto3863674F349C2DBC601AF649E437F7A83.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/round_boundary_Auto3.uasset'
+[2025.01.19-19.33.01:991][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/rect_boundary_long] ([1] browsable assets)...
+[2025.01.19-19.33.01:991][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/rect_boundary_long]
+[2025.01.19-19.33.01:993][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_long_Auto3
+[2025.01.19-19.33.01:993][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/rect_boundary_long_Auto3E6FD719848306855871438B4465C42C7.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_long_Auto3.uasset'
+[2025.01.19-19.33.01:993][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Boundaries/rect_boundary_short] ([1] browsable assets)...
+[2025.01.19-19.33.01:993][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Boundaries/rect_boundary_short]
+[2025.01.19-19.33.01:994][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_short_Auto3
+[2025.01.19-19.33.01:994][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/rect_boundary_short_Auto38BCCB1484111630BAE87A5A9E8F7BCDD.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/LevelPrototyping/Boundaries/rect_boundary_short_Auto3.uasset'
+[2025.01.19-19.33.01:995][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Chrome] ([1] browsable assets)...
+[2025.01.19-19.33.01:995][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Chrome]
+[2025.01.19-19.33.01:997][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto3
+[2025.01.19-19.33.01:997][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Metal_Chrome_Auto3766ED10D4568DA9D10F0B59A59F7B7B6.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto3.uasset'
+[2025.01.19-19.33.01:997][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Burnished_Steel] ([1] browsable assets)...
+[2025.01.19-19.33.01:997][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Burnished_Steel]
+[2025.01.19-19.33.02:000][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Burnished_Steel_Auto3
+[2025.01.19-19.33.02:000][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Metal_Burnished_Steel_Auto3B7ACEC6A4E2E2450E0459A8D43021D48.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Burnished_Steel_Auto3.uasset'
+[2025.01.19-19.33.02:001][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Walnut] ([1] browsable assets)...
+[2025.01.19-19.33.02:001][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Walnut]
+[2025.01.19-19.33.02:001][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Walnut" FILE="D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.01.19-19.33.02:003][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto3
+[2025.01.19-19.33.02:003][734]LogSavePackage: Moving 'D:/Repos/LlamaGame/Saved/M_Wood_Walnut_Auto3597ECF7143ACDC74DEB06A97712CF897.tmp' to 'D:/Repos/LlamaGame/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Walnut_Auto3.uasset'
+[2025.01.19-19.33.02:003][734]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.01.19-19.37.03:830][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12598.636719
+[2025.01.19-19.37.04:830][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.19-19.37.04:830][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12599.302734, Update Interval: 352.457642
+[2025.01.19-19.39.01:964][815]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.01.19-19.39.02:177][815]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.39.02:177][815]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20796
+[2025.01.19-19.39.02:511][816]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.39.02:513][816]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{36d099ae-ab4a-4ab5-8452-190fdddcfad3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=109.12
+[2025.01.19-19.39.02:513][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.19-19.39.02:514][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.19-19.39.32:407][906]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Mindframe Headset (OMEN Mindframe Prime), InstanceID=1
+[2025.01.19-19.39.32:516][906]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.39.32:516][906]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20796
+[2025.01.19-19.39.32:849][907]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.39.32:851][907]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{50e617c4-9ab2-4e3c-8ec3-2d058e81bce7}, Name=Mindframe Headset (OMEN Mindframe Prime)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.43
+[2025.01.19-19.39.32:851][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.01.19-19.39.32:853][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.19-19.39.47:989][953]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.01.19-19.39.48:185][953]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.39.48:185][953]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20796
+[2025.01.19-19.39.48:518][954]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.39.48:519][954]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{36d099ae-ab4a-4ab5-8452-190fdddcfad3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=113.12
+[2025.01.19-19.39.48:519][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.19-19.39.48:521][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.19-19.40.13:012][622]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.01.19-19.40.13:012][622]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.01.19-19.40.13:015][622]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LevelPrototyping/PinballMap1.PinballMap1:PersistentLevel.SkyLight_UAID_244BFE02E0C11A4402_1183439084
+[2025.01.19-19.40.13:015][622]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LevelPrototyping/PinballMap1.PinballMap1:PersistentLevel.SkyLight_UAID_244BFE02E0C11A4402_1183439084
+[2025.01.19-19.40.18:448][195]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Mindframe Headset (OMEN Mindframe Prime), InstanceID=1
+[2025.01.19-19.40.18:453][196]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.40.18:453][196]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20796
+[2025.01.19-19.40.18:655][217]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.19-19.40.18:656][217]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=96000, DeviceID={0.0.0.00000000}.{50e617c4-9ab2-4e3c-8ec3-2d058e81bce7}, Name=Mindframe Headset (OMEN Mindframe Prime)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=197.97
+[2025.01.19-19.40.18:656][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.01.19-19.40.18:659][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.19-19.41.08:117][946]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.19-19.41.12:482][448]Cmd: DELETE
+[2025.01.19-19.41.12:482][448]Cmd: ACTOR DELETE
+[2025.01.19-19.41.12:486][448]LogEditorActor: Deleted Actor: SkyLight
+[2025.01.19-19.41.12:512][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.19-19.41.12:516][448]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.01.19-19.41.22:864][625]Cmd: DELETE
+[2025.01.19-19.41.22:864][625]Cmd: ACTOR DELETE
+[2025.01.19-19.41.22:867][625]LogEditorActor: Deleted Actor: PointLight
+[2025.01.19-19.41.22:891][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.41.22:894][625]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.01.19-19.41.32:802][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.19-19.41.32:885][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.19-19.41.32:906][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.19-19.41.32:927][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.19-19.41.32:935][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.917 ms (total: 4.70 sec)
