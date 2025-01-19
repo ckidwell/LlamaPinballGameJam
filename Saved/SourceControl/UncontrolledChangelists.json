@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Repos/LlamaGame/Content/LevelPrototyping/AssetTesting.umap",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/StaticCameraActor.uasset",
 				"X:/Unreal/Llama/LlamaPinballGameJam/Content/ThirdPerson/Blueprints/CameraActor.uasset",
